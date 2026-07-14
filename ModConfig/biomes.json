@@ -16,6 +16,7 @@
     "ceratopsidae:*",
     "spinosauridae:*",
     "dromaeosauridae:*"
+    "macronaria:*"
   ],
   "RealmGenerationConfig": {
     "ChunkHorizontalBlendThreshold": 0.001,
