@@ -1,6 +1,6 @@
 {
   "OilGyser_GenSpout": false,
-  "OilGyser_GenPool": true,
+  "OilGyser_GenPool": false,
   "OilGyser_GenBubble": true,
   "OilGyser_GenOilDeposit": true,
   "DoPowerTick": true,
